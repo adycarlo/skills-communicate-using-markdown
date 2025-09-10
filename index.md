@@ -1,4 +1,8 @@
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
+- [ ] primo bullet
+- [ ] secslddsldsl
+- [ ] sdsdkljsdjk 
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
@@ -8,5 +12,6 @@ var myVar = "Hello, world!";
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
 Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra.  
 # Etiam vel neque nec dui dignissim bibendum. Vivamus sit amet turpis a orci convallis porttitor at eget nulla.  
+
 
 
